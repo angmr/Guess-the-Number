@@ -130,7 +130,7 @@ Free to use, modify, and learn from.
 
 ## Author Note
 
-Handcoded before AI existed—demonstrating that creativity in software engineering comes from human intuition about how users think and behave.
+Handcoded before AI existed, demonstrating that creativity in software engineering comes from human intuition about how users think and behave ;)
 
 ---
 
